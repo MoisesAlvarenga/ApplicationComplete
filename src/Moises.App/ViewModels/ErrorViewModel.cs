@@ -1,6 +1,6 @@
 using System;
 
-namespace Moises.App.Models
+namespace Moises.App.ViewModels
 {
     public class ErrorViewModel
     {

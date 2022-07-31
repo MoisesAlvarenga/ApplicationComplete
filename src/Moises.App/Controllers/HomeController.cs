@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Moises.App.Models;
+using Moises.App.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
