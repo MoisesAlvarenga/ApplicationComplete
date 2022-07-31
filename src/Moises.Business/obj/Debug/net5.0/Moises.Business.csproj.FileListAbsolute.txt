@@ -1,0 +1,12 @@
+C:\Users\moise\source\repos\MinhaAppMvcCompleta\src\Moises.Business\bin\Debug\net5.0\Moises.Business.deps.json
+C:\Users\moise\source\repos\MinhaAppMvcCompleta\src\Moises.Business\bin\Debug\net5.0\Moises.Business.dll
+C:\Users\moise\source\repos\MinhaAppMvcCompleta\src\Moises.Business\bin\Debug\net5.0\Moises.Business.pdb
+C:\Users\moise\source\repos\MinhaAppMvcCompleta\src\Moises.Business\obj\Debug\net5.0\Moises.Business.csproj.AssemblyReference.cache
+C:\Users\moise\source\repos\MinhaAppMvcCompleta\src\Moises.Business\obj\Debug\net5.0\Moises.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\source\repos\MinhaAppMvcCompleta\src\Moises.Business\obj\Debug\net5.0\Moises.Business.AssemblyInfoInputs.cache
+C:\Users\moise\source\repos\MinhaAppMvcCompleta\src\Moises.Business\obj\Debug\net5.0\Moises.Business.AssemblyInfo.cs
+C:\Users\moise\source\repos\MinhaAppMvcCompleta\src\Moises.Business\obj\Debug\net5.0\Moises.Business.csproj.CoreCompileInputs.cache
+C:\Users\moise\source\repos\MinhaAppMvcCompleta\src\Moises.Business\obj\Debug\net5.0\Moises.Business.dll
+C:\Users\moise\source\repos\MinhaAppMvcCompleta\src\Moises.Business\obj\Debug\net5.0\refint\Moises.Business.dll
+C:\Users\moise\source\repos\MinhaAppMvcCompleta\src\Moises.Business\obj\Debug\net5.0\Moises.Business.pdb
+C:\Users\moise\source\repos\MinhaAppMvcCompleta\src\Moises.Business\obj\Debug\net5.0\ref\Moises.Business.dll
