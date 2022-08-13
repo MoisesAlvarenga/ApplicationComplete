@@ -24,7 +24,7 @@ namespace Moises.Data.Repository
             return await Db.Fornecedores.AsNoTracking()
                 .Include(c => c.Produtos)
                 .Include(c => c.Endereco)
-                .FirstOrDefaultAsync( c => c.Id == id)
+                .FirstOrDefaultAsync( c => c.Id == id);
                 
         }
     }

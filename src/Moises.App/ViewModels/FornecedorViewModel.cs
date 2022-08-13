@@ -21,8 +21,9 @@ namespace Moises.App.ViewModels
         [DisplayName("Tipo")]
         public int TipoFornecedor { get; set; }
 
-        [DisplayName("Ativo?")]
         public EnderecoViewModel Endereco { get; set; }
+
+        [DisplayName("Ativo?")]
         public bool Ativo { get; set; }
         public IEnumerable<ProdutoViewModel> Produtos { get; set; }
     }

@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Moises.App.ViewModels;
 
 namespace Moises.App.Data
 {
@@ -12,5 +13,6 @@ namespace Moises.App.Data
             : base(options)
         {
         }
+        public DbSet<Moises.App.ViewModels.EnderecoViewModel> EnderecoViewModel { get; set; }
     }
 }

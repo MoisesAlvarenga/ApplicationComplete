@@ -21,13 +21,13 @@ using Moises.App;
 #nullable disable
 #nullable restore
 #line 2 "C:\Users\moise\source\repos\MinhaAppMvcCompleta\src\Moises.App\Views\_ViewImports.cshtml"
-using Moises.App.Models;
+using Moises.App.ViewModels;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f836b4e421d1581cd3005b02551ebc4d7ca53ae2", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"28ea39f1f1262a058bd70df65486acf3cabc2ac9", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
